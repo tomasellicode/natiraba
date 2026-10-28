@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "hanami", "runtimeExecutable": "npm", "runtimeArgs": ["run", "dev", "--prefix", "hanami"], "port": 5173 }
+  ]
+}
